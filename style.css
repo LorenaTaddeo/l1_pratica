@@ -1,0 +1,6 @@
+table th,
+table td{
+    border: 2px solid blue;
+    padding: 8 px;
+    text-align: left;
+}
