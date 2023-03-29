@@ -1,6 +1,15 @@
-table th,
-table td{
+style.css
+    table th,
+    table td{
     border: 2px solid blue;
     padding: 8 px;
     text-align: left;
-}
+    }
+    
+    body{
+    background: linear-gradient(280deg, rgb(87, 87, 197),rgb(60, 173, 210))
+    }
+     body, footer{
+        color:white
+     }
+    
